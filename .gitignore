@@ -1,0 +1,14 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/ServiceConsoleClientApp/bin
+/ServiceConsoleClientApp/obj
+/ServiceConsoleHostApp/bin
+/ServiceConsoleHostApp/obj
+/WcfFileService.Common/bin
+/WcfFileService.Common/obj
+/WcfFileService.Tests/bin
+/WcfFileService.Tests/obj
+/TestResults
+/packages
